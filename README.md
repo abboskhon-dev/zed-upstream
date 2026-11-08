@@ -3,6 +3,10 @@
 
 # Zed
 
+This branch adds **Zed Worktrees**: a right-hand project and Git worktree navigator, retained terminal
+sessions, layout inheritance, pinned worktrees and terminal completion bells. It is based on Zed
+`v1.26.2`. See [setup, source installation and agent notification instructions](docs/src/git.md#worktree-navigator).
+
 [![Zed](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zed-industries/zed/main/assets/badge/v0.json)](https://zed.dev)
 [![CI](https://github.com/zed-industries/zed/actions/workflows/run_tests.yml/badge.svg)](https://github.com/zed-industries/zed/actions/workflows/run_tests.yml)
 
